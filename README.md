@@ -273,14 +273,6 @@ I believe the best way to become a better developer is to **build real projects,
 
 ---
 
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
-
 # 🚀 What I'm Building
 
 * 🛒 Full-stack e-commerce applications
